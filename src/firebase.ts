@@ -3,13 +3,13 @@ import { getDatabase } from "firebase/database";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDkEQ0Pz8Tpp0e-qosBSSZ-rwu0zAo2kyo", 
-  authDomain: "globaltalk40-1757b.firebaseapp.com",
+  apiKey: "AIzaSyCnA31AAsREVEaGSKF21_xqliunCR5paaY", 
+  authDomain: "neuralbraille.firebaseapp.com",
   databaseURL: "https://neuralbraille-default-rtdb.europe-west1.firebasedatabase.app", // 🔥 RADAR DB BURADA OLMALI
-  projectId: "globaltalk40-1757b",
-  storageBucket: "globaltalk40-1757b.appspot.com",
-  messagingSenderId: "596406605495",
-  appId: "1:596406605495:web:9dcdaed970fa4a70869f32"
+  projectId: "neuralbraille",
+  storageBucket: "neuralbraille.firebasestorage.app",
+  messagingSenderId: "554273615738",
+  appId: "1:554273615738:web:9983d566b34f697a10f0c3"
 };
 
 const app = initializeApp(firebaseConfig);
