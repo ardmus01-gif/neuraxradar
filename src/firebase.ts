@@ -5,7 +5,7 @@ import { getAuth } from "firebase/auth";
 const firebaseConfig = {
   apiKey: "AIzaSyDkEQ0Pz8Tpp0e-qosBSSZ-rwu0zAo2kyo", 
   authDomain: "globaltalk40-1757b.firebaseapp.com",
-  databaseURL: "https://neuralbraille-default-rtdb.europe-west1.firebasedatabase.app", //
+  databaseURL: "https://neuralbraille-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "globaltalk40-1757b",
   storageBucket: "globaltalk40-1757b.appspot.com",
   messagingSenderId: "596406605495",
